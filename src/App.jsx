@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <div> I would develop this soon..</div>
-    <div href ="readstories.vercell.app"> see my current project through here. </div>
+    <div> see my current project through <a href ="https://readstories.vercel.app">here.</a></div>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
